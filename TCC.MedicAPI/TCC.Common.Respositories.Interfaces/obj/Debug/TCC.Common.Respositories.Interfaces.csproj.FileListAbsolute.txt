@@ -1,0 +1,6 @@
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Respositories.Interfaces\bin\Debug\TCC.Common.Respositories.Interfaces.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Respositories.Interfaces\bin\Debug\TCC.Common.Respositories.Interfaces.pdb
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Respositories.Interfaces\obj\Debug\TCC.Common.Respositories.Interfaces.csprojAssemblyReference.cache
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Respositories.Interfaces\obj\Debug\TCC.Common.Respositories.Interfaces.csproj.CoreCompileInputs.cache
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Respositories.Interfaces\obj\Debug\TCC.Common.Respositories.Interfaces.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Respositories.Interfaces\obj\Debug\TCC.Common.Respositories.Interfaces.pdb

@@ -1,0 +1,6 @@
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.MedicAPI.Dominio\bin\Debug\TCC.MedicAPI.Dominio.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.MedicAPI.Dominio\bin\Debug\TCC.MedicAPI.Dominio.pdb
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.MedicAPI.Dominio\obj\Debug\TCC.MedicAPI.Dominio.csprojAssemblyReference.cache
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.MedicAPI.Dominio\obj\Debug\TCC.MedicAPI.Dominio.csproj.CoreCompileInputs.cache
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.MedicAPI.Dominio\obj\Debug\TCC.MedicAPI.Dominio.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.MedicAPI.Dominio\obj\Debug\TCC.MedicAPI.Dominio.pdb

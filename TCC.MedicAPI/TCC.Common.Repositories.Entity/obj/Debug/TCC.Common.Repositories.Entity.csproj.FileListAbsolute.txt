@@ -1,0 +1,14 @@
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\TCC.Common.Repositories.Entity.dll.config
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\TCC.Common.Repositories.Entity.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\TCC.Common.Repositories.Entity.pdb
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\EntityFramework.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\TCC.Common.Respositories.Interfaces.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\TCC.Common.Respositories.Interfaces.pdb
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\EntityFramework.xml
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\obj\Debug\TCC.Common.Repositories.Entity.csprojAssemblyReference.cache
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\obj\Debug\TCC.Common.Repositories.Entity.csproj.CoreCompileInputs.cache
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\obj\Debug\TCC.Common.Repositories.Entity.csproj.CopyComplete
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\obj\Debug\TCC.Common.Repositories.Entity.dll
+E:\Estudo\TreinaWeb\Api\TCC.MedicAPI\TCC.Common.Repositories.Entity\obj\Debug\TCC.Common.Repositories.Entity.pdb
