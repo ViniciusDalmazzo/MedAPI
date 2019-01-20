@@ -14,40 +14,40 @@ namespace TCC.MedicAPI.Api.Controllers
         private IRepositoryTCC<Paciente, int> _repositoryPacientes
             = new RepositoryPacientes(new MedicAPIDBContext());
 
-        public IEnumerable<Paciente> Get()
+        public IHttpActionResult Get()
         {
-            return _repositoryPacientes.Selecionar();
+            return Ok(_repositoryPacientes.Selecionar());
         }
 
         // A interrogação (?) após o 'int' é usado pois a rota classifica o id como opcional,
         // a estrutura da controller precisa bater com a da rota (WebApiConfig)
-        public HttpResponseMessage Get(int? id)
+        public IHttpActionResult Get(int? id)
         {
             if(!id.HasValue)
             {
-                return Request.CreateResponse(HttpStatusCode.BadRequest);
+                return BadRequest();
             }
 
             Paciente paciente = _repositoryPacientes.SelecionarPorID(id.Value);
 
             if(paciente == null)
             {
-                return Request.CreateResponse(HttpStatusCode.NotFound);
+                return NotFound();
             }
 
-            return Request.CreateResponse(HttpStatusCode.Found, paciente);
+            return Content(HttpStatusCode.Found, paciente);
         }
 
-        public HttpResponseMessage Post([FromBody]Paciente paciente)
+        public IHttpActionResult Post([FromBody]Paciente paciente)
         {
             try
             {
                 _repositoryPacientes.Inserir(paciente);
-                return Request.CreateResponse(HttpStatusCode.Created);
+                return Created($"{Request.RequestUri}/{paciente.Id}", paciente);
             }
             catch (System.Exception ex)
             {
-                return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
+                return InternalServerError(ex);
             }
         }
     }
