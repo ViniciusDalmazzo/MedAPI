@@ -246,3 +246,8 @@ E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\obj\Debug\TCC.MedicAP
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\obj\Debug\TCC.MedicAPI.Api.csproj.CopyComplete
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\obj\Debug\TCC.MedicAPI.Api.dll
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\obj\Debug\TCC.MedicAPI.Api.pdb
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\AutoMapper.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\System.ValueTuple.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\AutoMapper.pdb
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\AutoMapper.xml
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\System.ValueTuple.xml
