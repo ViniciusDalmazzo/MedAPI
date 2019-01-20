@@ -52,6 +52,10 @@
     <Compile Include="Migrations\201901172316227_CriacaoTabelaPacientes.Designer.cs">
       <DependentUpon>201901172316227_CriacaoTabelaPacientes.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201901182305019_Paciente.cs" />
+    <Compile Include="Migrations\201901182305019_Paciente.Designer.cs">
+      <DependentUpon>201901182305019_Paciente.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -68,6 +72,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201901172316227_CriacaoTabelaPacientes.resx">
       <DependentUpon>201901172316227_CriacaoTabelaPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201901182305019_Paciente.resx">
+      <DependentUpon>201901182305019_Paciente.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

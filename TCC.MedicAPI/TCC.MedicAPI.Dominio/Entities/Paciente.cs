@@ -4,9 +4,10 @@ namespace TCC.MedicAPI.Dominio
 {
     public class Paciente
     {
-        public int ID { get; private set; }
-        public string Nome { get; private set; }
-        public string Sobrenome { get; private set; }
-        public DateTime DataDeNascimento { get; private set; }
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Sobrenome { get; set; }
+        public string RG { get; set; }
+        public string CPF { get; set; }
     }
 }
