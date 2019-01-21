@@ -48,13 +48,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\MedicAPIDBContext.cs" />
-    <Compile Include="Migrations\201901172316227_CriacaoTabelaPacientes.cs" />
-    <Compile Include="Migrations\201901172316227_CriacaoTabelaPacientes.Designer.cs">
-      <DependentUpon>201901172316227_CriacaoTabelaPacientes.cs</DependentUpon>
+    <Compile Include="Migrations\201901212241565_Initial.cs" />
+    <Compile Include="Migrations\201901212241565_Initial.Designer.cs">
+      <DependentUpon>201901212241565_Initial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201901182305019_Paciente.cs" />
-    <Compile Include="Migrations\201901182305019_Paciente.Designer.cs">
-      <DependentUpon>201901182305019_Paciente.cs</DependentUpon>
+    <Compile Include="Migrations\201901212248202_AtualizaEndereco.cs" />
+    <Compile Include="Migrations\201901212248202_AtualizaEndereco.Designer.cs">
+      <DependentUpon>201901212248202_AtualizaEndereco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201901212332139_AtualizaEndereco2.cs" />
+    <Compile Include="Migrations\201901212332139_AtualizaEndereco2.Designer.cs">
+      <DependentUpon>201901212332139_AtualizaEndereco2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -70,11 +74,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201901172316227_CriacaoTabelaPacientes.resx">
-      <DependentUpon>201901172316227_CriacaoTabelaPacientes.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201901212241565_Initial.resx">
+      <DependentUpon>201901212241565_Initial.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201901182305019_Paciente.resx">
-      <DependentUpon>201901182305019_Paciente.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201901212248202_AtualizaEndereco.resx">
+      <DependentUpon>201901212248202_AtualizaEndereco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201901212332139_AtualizaEndereco2.resx">
+      <DependentUpon>201901212332139_AtualizaEndereco2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

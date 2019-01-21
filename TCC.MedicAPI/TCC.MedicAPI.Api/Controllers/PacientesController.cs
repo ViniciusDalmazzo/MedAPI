@@ -12,7 +12,7 @@ using TCC.MEdicAPI.Infra.Entity.Context;
 
 namespace TCC.MedicAPI.Api.Controllers
 {
-    [Authorize]
+    
     public class PacientesController : ApiController
     {
         private IRepositoryTCC<Paciente, int> _repositoryPacientes
@@ -48,6 +48,7 @@ namespace TCC.MedicAPI.Api.Controllers
             return Content(HttpStatusCode.Found, dto);
         }
 
+        [Authorize]
         [ApplyModelValidation]
         public IHttpActionResult Post([FromBody]Paciente_DTO dto)
         {
@@ -64,6 +65,7 @@ namespace TCC.MedicAPI.Api.Controllers
 
         }
 
+        [Authorize]
         [ApplyModelValidation]
         public IHttpActionResult Put(int? id, [FromBody]Paciente_DTO dto)
         {
@@ -87,6 +89,7 @@ namespace TCC.MedicAPI.Api.Controllers
             }
         }
 
+        [Authorize]
         public IHttpActionResult Delete(int? id)
         {
             try

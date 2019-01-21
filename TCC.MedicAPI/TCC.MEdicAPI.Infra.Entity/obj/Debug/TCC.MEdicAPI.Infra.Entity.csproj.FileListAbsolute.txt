@@ -24,10 +24,11 @@ E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\bin\Debug\TC
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\bin\Debug\EntityFramework.xml
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\bin\Debug\EntityFramework.SqlServer.xml
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MedicAPI.Infra.Entity.csprojAssemblyReference.cache
-E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MEdicAPI.Infra.Entity.Migrations.CriacaoTabelaPacientes.resources
-E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MEdicAPI.Infra.Entity.Migrations.Paciente.resources
-E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MedicAPI.Infra.Entity.csproj.GenerateResource.cache
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MedicAPI.Infra.Entity.csproj.CoreCompileInputs.cache
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MedicAPI.Infra.Entity.csproj.CopyComplete
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MEdicAPI.Infra.Entity.dll
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MEdicAPI.Infra.Entity.pdb
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MEdicAPI.Infra.Entity.Migrations.Initial.resources
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MedicAPI.Infra.Entity.csproj.GenerateResource.cache
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MEdicAPI.Infra.Entity.Migrations.AtualizaEndereco.resources
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MEdicAPI.Infra.Entity\obj\Debug\TCC.MEdicAPI.Infra.Entity.Migrations.AtualizaEndereco2.resources

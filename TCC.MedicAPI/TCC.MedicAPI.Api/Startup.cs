@@ -20,6 +20,10 @@ namespace TCC.MedicAPI.Api
             WebApiConfig.Register(config);
             app.UseCors(CorsOptions.AllowAll);
             app.UseWebApi(config);
+
+            config.Formatters.JsonFormatter
+                       .SerializerSettings
+                       .ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
         }
 
         private void ConfigureOAuth(IAppBuilder app)

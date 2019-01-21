@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using TCC.MedicAPI.Dominio.Entities;
 
 namespace TCC.MedicAPI.Dominio
 {
@@ -9,5 +10,6 @@ namespace TCC.MedicAPI.Dominio
         public string Sobrenome { get; set; }
         public string RG { get; set; }
         public string CPF { get; set; }
+        public ICollection<Endereco> Endereco { get; set; }
     }
 }

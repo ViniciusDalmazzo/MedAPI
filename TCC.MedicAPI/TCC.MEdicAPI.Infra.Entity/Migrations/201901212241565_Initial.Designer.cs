@@ -7,13 +7,13 @@ namespace TCC.MEdicAPI.Infra.Entity.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class CriacaoTabelaPacientes : IMigrationMetadata
+    public sealed partial class Initial : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(CriacaoTabelaPacientes));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(Initial));
         
         string IMigrationMetadata.Id
         {
-            get { return "201901172316227_CriacaoTabelaPacientes"; }
+            get { return "201901212241565_Initial"; }
         }
         
         string IMigrationMetadata.Source

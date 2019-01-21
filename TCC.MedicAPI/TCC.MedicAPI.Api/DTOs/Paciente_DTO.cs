@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace TCC.MedicAPI.Api.DTOs
 {
@@ -17,5 +18,6 @@ namespace TCC.MedicAPI.Api.DTOs
         [Required(ErrorMessage = "O CPF do paciente é obrigatório.")]
         [StringLength(maximumLength: 14, MinimumLength = 11, ErrorMessage = "O CPF do paciente deve possuir 11 caracteres.")]
         public string CPF { get; set; }
+        public IEnumerable<Endereco_DTO> Endereco { get; set; }
     }
 }

@@ -221,6 +221,7 @@
     <Compile Include="AutoMapper\AutoMapperManager.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PacientesController.cs" />
+    <Compile Include="DTOs\Endereco_DTO.cs" />
     <Compile Include="DTOs\Paciente_DTO.cs" />
     <Compile Include="Filters\ApplyModelValidationAttribute.cs" />
     <Compile Include="Global.asax.cs">
