@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using TCC.Common.Respositories.Interfaces;
 using TCC.MedicAPI.Api.AutoMapper;
@@ -13,6 +12,7 @@ using TCC.MEdicAPI.Infra.Entity.Context;
 
 namespace TCC.MedicAPI.Api.Controllers
 {
+    [Authorize]
     public class PacientesController : ApiController
     {
         private IRepositoryTCC<Paciente, int> _repositoryPacientes

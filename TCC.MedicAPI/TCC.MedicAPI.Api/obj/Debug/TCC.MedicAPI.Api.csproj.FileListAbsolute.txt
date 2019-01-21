@@ -251,3 +251,17 @@ E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\System.ValueTuple
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\AutoMapper.pdb
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\AutoMapper.xml
 E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\System.ValueTuple.xml
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Cors.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Security.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Owin.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\System.Web.Cors.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\System.Web.Http.Owin.dll
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.xml
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Cors.xml
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Security.xml
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Estudo\TreinaWeb\MedicAPI\TCC.MedicAPI\TCC.MedicAPI.Api\bin\System.Web.Http.Owin.xml
